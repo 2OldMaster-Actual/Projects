@@ -1,2 +1,2 @@
 # Projects
-Learning Code with projects
+Projects to learn code
